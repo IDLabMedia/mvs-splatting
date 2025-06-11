@@ -1,0 +1,3 @@
+build/*
+bin/*
+example/orchids/sparse/0/points3D_mvs.bin
