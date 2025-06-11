@@ -1,5 +1,7 @@
 # [MVS-Splatting: Fast Multi-View Stereo Depth Fusion for 3D Gaussian Splatting Initialization](https://idlabmedia.github.io/mvs-splatting/)
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Visit%20Site-blue?logo=github)](https://idlabmedia.github.io/mvs-splatting/)
+
 This is the code repository for the paper with the same name. We also publish a dataset called `Ghent29`.
 
 ## Repository structure
@@ -39,5 +41,3 @@ Our paper is currently under review. Once published, the citation will become av
 ```
 
 Paper and dataset by [IDLab Media](https://media.idlab.ugent.be/)
-
-
