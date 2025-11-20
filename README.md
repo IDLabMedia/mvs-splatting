@@ -1,6 +1,7 @@
 # [MVS-Splatting: Fast Multi-View Stereo Depth Fusion for 3D Gaussian Splatting Initialization](https://idlabmedia.github.io/mvs-splatting/)
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Visit%20Site-blue?logo=github)](https://idlabmedia.github.io/mvs-splatting/)
+[![IEEE Access](https://img.shields.io/badge/IEEE_Access-Paper-green)](https://ieeexplore.ieee.org/document/11251138)
 
 This is the code repository for the paper with the same name. We also publish a dataset called `Ghent29`.
 
@@ -35,9 +36,19 @@ Use `MVSSplatting` to generate  `sparse/0/points3D_mvs.bin`. This contains the 3
 `MVSSplatting` also has an optional GUI.
 
 ## BibTex
+If you use our paper, code or dataset, please cite us.
+[Our paper](https://ieeexplore.ieee.org/document/11251138) is accepted to IEEE Access, but is currently under Early Access in IEEE Xplore. Once published, we will update the citation below.
 
 ```
-Our paper is currently under review. Once published, the citation will become available here.
+@article{mvssplatting,
+  author={Artois, Julie and Lambert, Peter and Wallendael, Glenn Van},
+  journal={IEEE Access}, 
+  title={MVS-Splatting: Fast Multi-View Stereo Depth Fusion for 3D Gaussian Splatting Initialization}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/ACCESS.2025.3634276}}
 ```
 
 Paper and dataset by [IDLab Media](https://media.idlab.ugent.be/)
