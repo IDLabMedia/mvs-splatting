@@ -37,7 +37,7 @@ Use `MVSSplatting` to generate  `sparse/0/points3D_mvs.bin`. This contains the 3
 
 ## BibTex
 If you use our paper, code or dataset, please cite us.
-[Our paper](https://ieeexplore.ieee.org/document/11251138) is accepted to IEEE Access, but is currently under Early Access in IEEE Xplore. Once published, we will update the citation below.
+[Our paper](https://ieeexplore.ieee.org/document/11251138) is accepted to IEEE Access, and is currently under Early Access in IEEE Xplore. 
 
 ```
 @article{mvssplatting,
@@ -45,9 +45,9 @@ If you use our paper, code or dataset, please cite us.
   journal={IEEE Access}, 
   title={MVS-Splatting: Fast Multi-View Stereo Depth Fusion for 3D Gaussian Splatting Initialization}, 
   year={2025},
-  volume={},
+  volume={13},
   number={},
-  pages={},
+  pages={197796-197807},
   doi={10.1109/ACCESS.2025.3634276}}
 ```
 
